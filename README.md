@@ -1,0 +1,1 @@
+# macos_app_local_tool
